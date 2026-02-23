@@ -3,6 +3,7 @@
 ## Overview
 
 This project presents a structured SQL analysis of an online bookstore database built in PostgreSQL. The objective is to simulate how a company operating in the e-commerce domain uses transactional data to monitor performance, evaluate customer behavior, track inventory levels, and support strategic decision-making. The analysis emphasizes practical query design, analytical reasoning, and business-focused reporting rather than isolated SQL exercises.
+
 ---
 
 ## Project Structure
